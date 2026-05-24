@@ -4,6 +4,9 @@ const cors = require('cors');
 const valkeyClient = require('./valkeyClient');
 
 const authRoutes = require('./routes/auth');
+const productRoutes = require('./routes/products');
+const categoryRoutes = require('./routes/categories');
+const vendorRoutes = require('./routes/vendors');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -14,6 +17,9 @@ app.use(express.json());
 
 // Routes
 app.use('/api/auth', authRoutes);
+app.use('/api/products', productRoutes);
+app.use('/api/categories', categoryRoutes);
+app.use('/api/vendors', vendorRoutes);
 
 // Health check endpoint
 app.get('/health', (req, res) => {
