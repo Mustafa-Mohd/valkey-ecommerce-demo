@@ -127,7 +127,7 @@ const ProductDetailsOne = () => {
                                     </p>
                                     <div className="mt-32 flex-align flex-wrap gap-32">
                                         <div className="flex-align gap-8">
-                                            <h4 className="mb-0">${product ? (product.price && product.price.current) || "0.00" : "25.00"}</h4>
+                                            <h4 className="mb-0">${product ? (product.price && (product.price.amount || product.price.current)) || "0.00" : "25.00"}</h4>
                                             <span className="text-md text-gray-500">${product ? (product.price && product.price.regular) || "0.00" : "38.00"}</span>
                                         </div>
                                         <Link to="#" className="btn btn-main rounded-pill">

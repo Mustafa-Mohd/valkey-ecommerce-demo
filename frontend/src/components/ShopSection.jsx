@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import ReactSlider from 'react-slider'
 import AdBanner from './AdBanner'
+import { useCart } from '../helper/CartContext'
 
 const ShopSection = () => {
 
@@ -10,6 +11,8 @@ const ShopSection = () => {
     let [active, setActive] = useState(false)
     let [products, setProducts] = useState([])
     let [loading, setLoading] = useState(true)
+    const { addToCart, decrementFromCart, cartItems } = useCart()
+    const getCartQty = (id) => (cartItems.find(i => i.id === id)?.qty || 0)
 
     const location = useLocation();
     const queryParams = new URLSearchParams(location.search);
@@ -748,13 +751,26 @@ const ShopSection = () => {
                                                     ${product.price?.amount || '0.00'} <span className="text-gray-500 fw-normal">/Qty</span>{" "}
                                                 </span>
                                             </div>
-                                            <Link
-                                                to="/cart"
-                                                className="product-card__cart btn bg-gray-50 text-heading hover-bg-main-600 hover-text-white py-11 px-24 rounded-8 flex-center gap-8 fw-medium"
-                                                tabIndex={0}
-                                            >
-                                                Add To Cart <i className="ph ph-shopping-cart" />
-                                            </Link>
+                                            {getCartQty(product.id) > 0 ? (
+                                                <div className="flex-align border border-main-600 rounded-8 overflow-hidden mt-12">
+                                                    <button
+                                                        onClick={() => decrementFromCart(product.id)}
+                                                        className="btn bg-main-600 text-white px-16 py-11 fw-semibold text-xl"
+                                                    >−</button>
+                                                    <span className="flex-center px-20 py-11 fw-semibold text-heading">{getCartQty(product.id)}</span>
+                                                    <button
+                                                        onClick={() => addToCart(product)}
+                                                        className="btn bg-main-600 text-white px-16 py-11 fw-semibold text-xl"
+                                                    >+</button>
+                                                </div>
+                                            ) : (
+                                                <button
+                                                    onClick={() => addToCart(product)}
+                                                    className="product-card__cart btn bg-gray-50 text-heading hover-bg-main-600 hover-text-white py-11 px-24 rounded-8 flex-center gap-8 fw-medium w-100 mt-12"
+                                                >
+                                                    Add To Cart <i className="ph ph-shopping-cart" />
+                                                </button>
+                                            )}
                                         </div>
                                     </div>
                                 ))

@@ -112,7 +112,7 @@ const CartSection = () => {
                                                         className="table-product__thumb border border-gray-100 rounded-8 flex-center "
                                                     >
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img2.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                         />
                                                     </Link>
@@ -186,7 +186,7 @@ const CartSection = () => {
                                                         className="table-product__thumb border border-gray-100 rounded-8 flex-center "
                                                     >
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img3.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                         />
                                                     </Link>
@@ -260,7 +260,7 @@ const CartSection = () => {
                                                         className="table-product__thumb border border-gray-100 rounded-8 flex-center "
                                                     >
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img4.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                         />
                                                     </Link>

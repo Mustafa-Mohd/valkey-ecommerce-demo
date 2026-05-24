@@ -21,9 +21,11 @@ import BecomeSellerPage from "./pages/BecomeSellerPage";
 import WishlistPage from "./pages/WishlistPage";
 import AdminPage from "./pages/AdminPage";
 import AgentBot from "./components/AgentBot";
+import { CartProvider } from "./helper/CartContext";
 
 function App() {
   return (
+    <CartProvider>
     <BrowserRouter>
       <RouteScrollToTop />
       <PhosphorIconInit />
@@ -63,6 +65,7 @@ function App() {
       </Routes>
       <AgentBot />
     </BrowserRouter>
+    </CartProvider>
   );
 }
 

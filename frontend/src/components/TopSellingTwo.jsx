@@ -191,7 +191,7 @@ const TopSellingTwo = () => {
                                                     New
                                                 </span>
                                                 <img
-                                                    src="assets/images/thumbs/product-two-img2.png"
+                                                    src="assets/images/thumbs/product-two-img1.png"
                                                     alt=""
                                                     className="w-auto max-w-unset"
                                                 />
@@ -260,7 +260,7 @@ const TopSellingTwo = () => {
                                                     Sale 50%
                                                 </span>
                                                 <img
-                                                    src="assets/images/thumbs/product-two-img3.png"
+                                                    src="assets/images/thumbs/product-two-img1.png"
                                                     alt=""
                                                     className="w-auto max-w-unset"
                                                 />
@@ -329,7 +329,7 @@ const TopSellingTwo = () => {
                                                     Sold
                                                 </span>
                                                 <img
-                                                    src="assets/images/thumbs/product-two-img4.png"
+                                                    src="assets/images/thumbs/product-two-img1.png"
                                                     alt=""
                                                     className="w-auto max-w-unset"
                                                 />
@@ -398,7 +398,7 @@ const TopSellingTwo = () => {
                                                     New
                                                 </span>
                                                 <img
-                                                    src="assets/images/thumbs/product-two-img2.png"
+                                                    src="assets/images/thumbs/product-two-img1.png"
                                                     alt=""
                                                     className="w-auto max-w-unset"
                                                 />

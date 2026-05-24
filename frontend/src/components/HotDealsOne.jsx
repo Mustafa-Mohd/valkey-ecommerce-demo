@@ -149,7 +149,7 @@ const HotDealsOne = () => {
                                             to="/product-details"
                                             className="product-card__thumb flex-center"
                                         >
-                                            <img src="assets/images/thumbs/product-img8.png" alt="" />
+                                            <img src="assets/images/thumbs/product-img1.png" alt="" />
                                         </Link>
                                         <div className="product-card__content p-sm-2">
                                             <h6 className="title text-lg fw-semibold mt-12 mb-8">
@@ -201,7 +201,7 @@ const HotDealsOne = () => {
                                             to="/product-details"
                                             className="product-card__thumb flex-center"
                                         >
-                                            <img src="assets/images/thumbs/product-img9.png" alt="" />
+                                            <img src="assets/images/thumbs/product-img1.png" alt="" />
                                         </Link>
                                         <div className="product-card__content p-sm-2">
                                             <h6 className="title text-lg fw-semibold mt-12 mb-8">
@@ -253,7 +253,7 @@ const HotDealsOne = () => {
                                             to="/product-details"
                                             className="product-card__thumb flex-center"
                                         >
-                                            <img src="assets/images/thumbs/product-img10.png" alt="" />
+                                            <img src="assets/images/thumbs/product-img1.png" alt="" />
                                         </Link>
                                         <div className="product-card__content p-sm-2">
                                             <h6 className="title text-lg fw-semibold mt-12 mb-8">
@@ -305,7 +305,7 @@ const HotDealsOne = () => {
                                             to="/product-details"
                                             className="product-card__thumb flex-center"
                                         >
-                                            <img src="assets/images/thumbs/product-img18.png" alt="" />
+                                            <img src="assets/images/thumbs/product-img1.png" alt="" />
                                         </Link>
                                         <div className="product-card__content p-sm-2">
                                             <h6 className="title text-lg fw-semibold mt-12 mb-8">
@@ -357,7 +357,7 @@ const HotDealsOne = () => {
                                             to="/product-details"
                                             className="product-card__thumb flex-center"
                                         >
-                                            <img src="assets/images/thumbs/product-img9.png" alt="" />
+                                            <img src="assets/images/thumbs/product-img1.png" alt="" />
                                         </Link>
                                         <div className="product-card__content p-sm-2">
                                             <h6 className="title text-lg fw-semibold mt-12 mb-8">

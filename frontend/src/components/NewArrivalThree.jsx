@@ -269,7 +269,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img2.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -378,7 +378,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img3.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -603,7 +603,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img2.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -712,7 +712,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img3.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -1011,7 +1011,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img2.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -1120,7 +1120,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img3.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -1345,7 +1345,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img2.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -1454,7 +1454,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img3.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -1753,7 +1753,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img2.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -1862,7 +1862,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img3.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -2087,7 +2087,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img2.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -2196,7 +2196,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img3.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -2495,7 +2495,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img2.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -2604,7 +2604,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img3.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -2829,7 +2829,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img2.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -2938,7 +2938,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img3.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -3237,7 +3237,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img2.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -3346,7 +3346,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img3.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -3571,7 +3571,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img2.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -3680,7 +3680,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img3.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -3979,7 +3979,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img2.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -4088,7 +4088,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img3.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -4313,7 +4313,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img2.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -4422,7 +4422,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img3.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -4721,7 +4721,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img2.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -4830,7 +4830,7 @@ const NewArrivalThree = () => {
                             className='w-100 h-100 flex-center'
                           >
                             <img
-                              src='assets/images/thumbs/trending-three-img3.png'
+                              src='assets/images/thumbs/trending-three-img1.png'
                               alt=''
                               className='w-auto max-w-unset'
                             />
@@ -5055,7 +5055,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img2.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />
@@ -5164,7 +5164,7 @@ const NewArrivalThree = () => {
                               className='w-100 h-100 flex-center'
                             >
                               <img
-                                src='assets/images/thumbs/trending-three-img3.png'
+                                src='assets/images/thumbs/trending-three-img1.png'
                                 alt=''
                                 className='w-auto max-w-unset'
                               />

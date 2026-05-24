@@ -286,7 +286,7 @@ const VendorTwoDetails = () => {
                       className='w-100 h-100 rounded-4 overflow-hidden w-76 h-76 flex-shrink-0 bg-color-three flex-center'
                     >
                       <img
-                        src='assets/images/thumbs/best-selling-img2.png'
+                        src='assets/images/thumbs/best-selling-img1.png'
                         alt=''
                         className=''
                       />
@@ -331,7 +331,7 @@ const VendorTwoDetails = () => {
                       className='w-100 h-100 rounded-4 overflow-hidden w-76 h-76 flex-shrink-0 bg-color-three flex-center'
                     >
                       <img
-                        src='assets/images/thumbs/best-selling-img3.png'
+                        src='assets/images/thumbs/best-selling-img1.png'
                         alt=''
                         className=''
                       />
@@ -376,7 +376,7 @@ const VendorTwoDetails = () => {
                       className='w-100 h-100 rounded-4 overflow-hidden w-76 h-76 flex-shrink-0 bg-color-three flex-center'
                     >
                       <img
-                        src='assets/images/thumbs/best-selling-img4.png'
+                        src='assets/images/thumbs/best-selling-img1.png'
                         alt=''
                         className=''
                       />
@@ -421,7 +421,7 @@ const VendorTwoDetails = () => {
                       className='w-100 h-100 rounded-4 overflow-hidden w-76 h-76 flex-shrink-0 bg-color-three flex-center'
                     >
                       <img
-                        src='assets/images/thumbs/best-selling-img5.png'
+                        src='assets/images/thumbs/best-selling-img1.png'
                         alt=''
                         className=''
                       />
@@ -466,7 +466,7 @@ const VendorTwoDetails = () => {
                       className='w-100 h-100 rounded-4 overflow-hidden w-76 h-76 flex-shrink-0 bg-color-three flex-center'
                     >
                       <img
-                        src='assets/images/thumbs/best-selling-img6.png'
+                        src='assets/images/thumbs/best-selling-img1.png'
                         alt=''
                         className=''
                       />
@@ -711,7 +711,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img2.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />
@@ -814,7 +814,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img3.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />
@@ -917,7 +917,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img4.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />
@@ -1123,7 +1123,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img2.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />
@@ -1226,7 +1226,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img3.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />
@@ -1329,7 +1329,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img4.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />
@@ -1535,7 +1535,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img2.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />
@@ -1638,7 +1638,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img3.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />
@@ -1741,7 +1741,7 @@ const VendorTwoDetails = () => {
                     className='w-100 h-100 flex-center'
                   >
                     <img
-                      src='assets/images/thumbs/trending-three-img4.png'
+                      src='assets/images/thumbs/trending-three-img1.png'
                       alt=''
                       className='w-auto max-w-unset'
                     />

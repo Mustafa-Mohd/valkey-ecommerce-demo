@@ -226,7 +226,7 @@ const DealsOne = () => {
                                             Sale 50%{" "}
                                         </span>
                                         <img
-                                            src="assets/images/thumbs/product-two-img2.png"
+                                            src="assets/images/thumbs/product-two-img1.png"
                                             alt=""
                                             className="w-auto max-w-unset"
                                         />
@@ -302,7 +302,7 @@ const DealsOne = () => {
                                             New
                                         </span>
                                         <img
-                                            src="assets/images/thumbs/product-two-img3.png"
+                                            src="assets/images/thumbs/product-two-img1.png"
                                             alt=""
                                             className="w-auto max-w-unset"
                                         />
@@ -378,7 +378,7 @@ const DealsOne = () => {
                                             Best seller
                                         </span>
                                         <img
-                                            src="assets/images/thumbs/product-two-img4.png"
+                                            src="assets/images/thumbs/product-two-img1.png"
                                             alt=""
                                             className="w-auto max-w-unset"
                                         />
@@ -454,7 +454,7 @@ const DealsOne = () => {
                                             Best Seller{" "}
                                         </span>
                                         <img
-                                            src="assets/images/thumbs/product-two-img5.png"
+                                            src="assets/images/thumbs/product-two-img1.png"
                                             alt=""
                                             className="w-auto max-w-unset"
                                         />
@@ -530,7 +530,7 @@ const DealsOne = () => {
                                             Best seller
                                         </span>
                                         <img
-                                            src="assets/images/thumbs/product-two-img6.png"
+                                            src="assets/images/thumbs/product-two-img1.png"
                                             alt=""
                                             className="w-auto max-w-unset"
                                         />
@@ -606,7 +606,7 @@ const DealsOne = () => {
                                             New
                                         </span>
                                         <img
-                                            src="assets/images/thumbs/product-two-img9.png"
+                                            src="assets/images/thumbs/product-two-img1.png"
                                             alt=""
                                             className="w-auto max-w-unset"
                                         />

@@ -84,7 +84,7 @@ const FeaturedOne = () => {
                                                             Sale 50%{" "}
                                                         </span>
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img2.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                             className="w-auto max-w-unset"
                                                         />
@@ -148,7 +148,7 @@ const FeaturedOne = () => {
                                                             Best seller
                                                         </span>
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img3.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                             className="w-auto max-w-unset"
                                                         />
@@ -216,7 +216,7 @@ const FeaturedOne = () => {
                                                             Best Sale
                                                         </span>
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img4.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                             className="w-auto max-w-unset"
                                                         />
@@ -280,7 +280,7 @@ const FeaturedOne = () => {
                                                             New
                                                         </span>
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img4.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                             className="w-auto max-w-unset"
                                                         />
@@ -348,7 +348,7 @@ const FeaturedOne = () => {
                                                             Sale 50%{" "}
                                                         </span>
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img2.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                             className="w-auto max-w-unset"
                                                         />
@@ -412,7 +412,7 @@ const FeaturedOne = () => {
                                                             Best seller
                                                         </span>
                                                         <img
-                                                            src="assets/images/thumbs/product-two-img3.png"
+                                                            src="assets/images/thumbs/product-two-img1.png"
                                                             alt=""
                                                             className="w-auto max-w-unset"
                                                         />
